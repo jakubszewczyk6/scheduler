@@ -1,4 +1,4 @@
-Scheduler project                                                                                                                                                           
+Scheduler project                                                                                                                                                                                                                                                                                                                                             
 Members: Jakub Szewczyk, Jakub Cisak                                                                                                                                             
 Description:                                                                                                                                                                        
 Projekt aplikacji webowej umożliwiającej zarządzanie planami z konfigurowalną treścią.                                                                                                 
