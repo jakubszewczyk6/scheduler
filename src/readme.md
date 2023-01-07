@@ -8,6 +8,6 @@ Konfiguracja i wyświetlanie powiadomień o zaplanowanej lekcji w ustalonym czas
 Eksport planu do pliku .xlsx                                                                                                                                                         
 
 Uruchomienie:                                                                                                                                                               
-Pobranie kodu źródłowego.
-Zainstalowanie zależności komendą npm install
+Pobranie kodu źródłowego.                                                                                                                                                   
+Zainstalowanie zależności komendą npm install                                                                                                                               
 Uruchomienie aplikacji komendą w katalogu pro
